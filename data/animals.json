@@ -108,69 +108,6 @@
         "loving"
       ],
       "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "joshua",
-      "species": "beast",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "anxious"
-      ],
-      "id": "14"
-    },
-    {
-      "name": "joshua",
-      "species": "beast",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "loving"
-      ],
-      "id": "15"
-    },
-    {
-      "name": "joshua",
-      "species": "beast",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "anxious"
-      ],
-      "id": "16"
-    },
-    {
-      "name": "joshua",
-      "species": "joshua",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "zany"
-      ],
-      "id": "17"
     }
   ]
 }

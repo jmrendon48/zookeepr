@@ -3,21 +3,26 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jmrendon48/zookeepr.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jmrendon48/zookeepr/issues"
   },
   "homepage": "https://github.com/jmrendon48/zookeepr#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
